@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo8 -N"C:\Users\Gene\Desktop\7 Segment\Counter.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Gene\Desktop\7 Segment\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Counter.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	Counter.c
+diagnostics: 43	123	Compiled Successfully	Counter.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 16 (31%)  Free RAM (bytes): 36 (69%)	Used RAM (bytes): 16 (31%)  Free RAM (bytes): 36 (69%)
+hint: 0	1144	Used ROM (program words): 105 (10%)  Free ROM (program words): 919 (90%)	Used ROM (program words): 105 (10%)  Free ROM (program words): 919 (90%)
+diagnostics: 0	125	Project Linked Successfully	Counter.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Counter.mcppi' completed: 93 ms	 
+diagnostics: 0	103	Finished successfully: 15 Jan 2020, 21:46:52	Counter.mcppi
