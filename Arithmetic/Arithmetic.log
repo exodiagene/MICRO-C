@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo8 -N"C:\Users\Gene\Desktop\Arithmetic\Arithmetic.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Gene\Desktop\Arithmetic\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Arithmetic.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	Arithmetic.c
+warning: 106	1505	Suspicious pointer conversion	Arithmetic.c
+warning: 107	1505	Suspicious pointer conversion	Arithmetic.c
+diagnostics: 128	123	Compiled Successfully	Arithmetic.c
+diagnostics: 0	127	All files Compiled in 46 ms	 
+hint: 0	1144	Used RAM (bytes): 48 (92%)  Free RAM (bytes): 4 (8%)	Used RAM (bytes): 48 (92%)  Free RAM (bytes): 4 (8%)
+hint: 0	1144	Used ROM (program words): 960 (94%)  Free ROM (program words): 64 (6%)	Used ROM (program words): 960 (94%)  Free ROM (program words): 64 (6%)
+diagnostics: 0	125	Project Linked Successfully	Arithmetic.mcppi
+diagnostics: 0	128	Linked in 204 ms	 
+diagnostics: 0	129	Project 'Arithmetic.mcppi' completed: 266 ms	 
+diagnostics: 0	103	Finished successfully: 17 Feb 2020, 21:28:40	Arithmetic.mcppi
