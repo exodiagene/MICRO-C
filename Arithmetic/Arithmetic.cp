@@ -1,4 +1,4 @@
-#line 1 "C:/Users/Gene/Desktop/Arithmetic/Arithmetic.c"
+#line 1 "C:/Users/Gene/Documents/GitHub/MICRO-C/Arithmetic/Arithmetic.c"
 sbit LCD_RS at RB4_bit;
 sbit LCD_EN at RB5_bit;
 sbit LCD_D4 at RB0_bit;
